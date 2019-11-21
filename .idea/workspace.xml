@@ -16,6 +16,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1TKWaREWZtUvquZVvCRUkHKKNQs" />
@@ -62,7 +63,7 @@
       <workItem from="1574077901091" duration="13190000" />
       <workItem from="1574163200205" duration="6711000" />
       <workItem from="1574235147580" duration="18026000" />
-      <workItem from="1574321868678" duration="7348000" />
+      <workItem from="1574321868678" duration="7505000" />
     </task>
     <servers />
   </component>
