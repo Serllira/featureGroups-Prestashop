@@ -1,0 +1,82 @@
+/**
+* 2007-2019 PrestaShop
+*
+* NOTICE OF LICENSE
+*
+* This source file is subject to the Academic Free License (AFL 3.0)
+* that is bundled with this package in the file LICENSE.txt.
+* It is also available through the world-wide-web at this URL:
+* http://opensource.org/licenses/afl-3.0.php
+* If you did not receive a copy of the license and are unable to
+* obtain it through the world-wide-web, please send an email
+* to license@prestashop.com so we can send you a copy immediately.
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade PrestaShop to newer
+* versions in the future. If you wish to customize PrestaShop for your
+* needs please refer to http://www.prestashop.com for more information.
+*
+*  @author    PrestaShop SA <contact@prestashop.com>
+*  @copyright 2007-2019 PrestaShop SA
+*  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+*  International Registered Trademark & Property of PrestaShop SA
+*
+* Don't forget to prefix your containers with your own identifier
+* to avoid any conflicts with others containers.
+*/
+
+.data-sheet{
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: center;*/
+    margin-right: -300px;
+}
+
+.product-features{
+    margin-top: 75px;
+}
+
+.container-group{
+    margin-top: 40px;
+}
+
+.group-title{
+    font-weight: 900;
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.container-features{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.feature{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.feature-image{
+    margin-right: 30px;
+    height: 45px;
+    width: 90px;
+}
+
+.no-image{
+    min-width: 120px;
+}
+
+.feature-name{
+    margin-right: 50px;
+    font-weight: 500;
+    font-size: large;
+    min-width: 200px;
+}
+
+.feature-value{
+    position: relative;
+    font-weight: 400;
+    font-size: large;
+    text-align: right;
+}
